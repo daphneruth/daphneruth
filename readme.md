@@ -10,7 +10,7 @@
   	
   🔭&nbsp;Coding is today's language of creativity.\
   👨‍💻 &nbsp;I'm currently working for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software\
-  📱  &nbsp; Feel free to contact me via `0758413462`/`0790333257` or ***Email Me*** <bensonmakau2000@gmail.com> \
+  📱  &nbsp; Feel free to contact me by ***Emailing Me*** <daphineruth304@gmail.com> \
   💡 &nbsp;I develop software with ***Perfectionism***: Incinerating Perfectionism.
 </p>
 <br>
