@@ -10,7 +10,7 @@
   	
   🔭&nbsp;Coding is today's language of creativity.\
   👨‍💻 &nbsp;I'm currently working for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software\
-  📱  &nbsp; Feel free to contact me by ***Emailing Me*** <daphineruth304@gmail.com> \
+  📱  &nbsp; Feel free to contact me via ***Email*** <daphineruth304@gmail.com> \
   💡 &nbsp;I develop software with ***Perfectionism***: Incinerating Perfectionism.
 </p>
 <br>
@@ -62,14 +62,14 @@
 
 <!-- most used languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&layout=compact)](https://github.com/daphineruth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphineruth&layout=compact)](https://github.com/daphineruth)
 </p>
 
 <br />
 <h2>📈 &nbsp;Github Statistics</h2>
 <span align="left">
 
-![Benson Makau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphineruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![BDaphine Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphineruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="left">
 
