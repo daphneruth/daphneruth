@@ -47,6 +47,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
    <img alt="GitHub"  src="https://img.shields.io/badge/github-121213?style=flat-square&logo=github&logoColor=white">
 </p>
+
 <h2>🌐 &nbsp;Social Media</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daphineruth/)](https://www.linkedin.com/in/daphineruth/)
@@ -56,16 +57,15 @@
 </p>
 <hr/>
 <br/>
-
-<span align="center">
+<h2>📈 &nbsp;Languages Usage Statistics</h2>
 <!-- most used languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphineruth&layout=compact)](https://github.com/daphineruth)
 </p>
-</span>
+
 <br />
 <h2>📈 &nbsp;Github Statistics</h2>
-<span align="center">
+<span align="left">
 
 ![BDaphine Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphineruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
  ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daphineruth&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
