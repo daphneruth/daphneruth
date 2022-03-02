@@ -57,7 +57,7 @@
 </p>
 <hr/>
 <br/>
-<h2>📈 &nbsp;Languages Usage Statistics</h2>
+<h2>💹 &nbsp;Languages Usage Statistics</h2>
 <!-- most used languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphineruth&layout=compact)](https://github.com/daphineruth)
