@@ -12,7 +12,7 @@
 </p>
 <br>
 
- <h2>⚙ &nbsp; Development tools and Technologies</h2>
+ <h2>⚙ &nbsp;Development tools and Technologies</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
