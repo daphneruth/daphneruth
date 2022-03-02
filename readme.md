@@ -4,18 +4,15 @@
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/daphineruth">
 <p aligh="left">
 
-  <p>Hi 👋, I'm an Open Source enthusiast, always happy to fix that "one"  bug .</br>
-   I develop Web and Android Apps. Currently working remotely from
-    <b> Kisumu,  Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
-  	
-  🔭&nbsp;Coding is today's language of creativity.\
-  👨‍💻 &nbsp;I'm currently working for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software\
-  📱  &nbsp; Feel free to contact me via ***Email*** <daphineruth304@gmail.com> \
-  💡 &nbsp;I develop software with ***Perfectionism***: Incinerating Perfectionism.
+  <p>Hi 👋, I'm a software developer and a big fan of Women In Tech Empowerment .</br>
+   I develop websites and mobile applications for personal or enterprise use. Currently, I work for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software.
+    
+  📱  &nbsp; You can reach me through my ***Email*** <daphineruth304@gmail.com> \
+  💡 &nbsp;Powered by Intellect Driven by Values 
 </p>
 <br>
 
- <h2>⚙ &nbsp;Technologies, Environments and Development tools</h2>
+ <h2>⚙ &nbsp; Development tools and Technologies</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -53,30 +50,28 @@
 <h2>🌐 &nbsp;Social Media</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daphineruth/)](https://www.linkedin.com/in/daphineruth/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphineruth)](https://twitter.com/_daphineruth)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphineruth)](https://twitter.com/daphineruth)
 
 
 </p>
 <hr/>
 <br/>
 
+<span align="center">
 <!-- most used languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphineruth&layout=compact)](https://github.com/daphineruth)
 </p>
-
+</span>
 <br />
 <h2>📈 &nbsp;Github Statistics</h2>
 <span align="left">
 
 ![BDaphine Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphineruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+ ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daphineruth&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
-<span align="left">
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daphineruth&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
-<br>
-![](https://komarev.com/ghpvc/?username=daphineruth&color=green)
+
 <br>
 
 
