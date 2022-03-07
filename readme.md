@@ -7,7 +7,7 @@
   <p>Hi 👋, I'm a software developer and a big fan of Women In Tech Empowerment .</br>
    I develop websites and mobile applications for personal or enterprise use. Currently, I work for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software.
     
-  📱  &nbsp; You can reach me through my ***Email*** <daphineruth304@gmail.com> \
+  📱  &nbsp; contact me via ***Email*** <daphineruth304@gmail.com> \
   💡 &nbsp;Powered by Intellect Driven by Values 
 </p>
 <br>
@@ -50,7 +50,7 @@
 
 <h2>🌐 &nbsp;Social Media</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daphineruth/)](https://www.linkedin.com/in/daphineruth/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://daphneruth304@gmail.com/in/daphineruth/)](https://www.linkedin.com/in/daphineruth/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphineruth)](https://twitter.com/DaphneRuth7)
 
 
