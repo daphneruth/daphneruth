@@ -50,7 +50,7 @@
 
 <h2>🌐 &nbsp;Social Media</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedIn.com/in/daphineruth/)](https://www.linkedin.com/in/Daphineruth /)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedIn.com/in/daphineruth/)](https://www.linkedin.com/in/Daphineruth /)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphineruth)](https://twitter.com/@DaphneRuth7)
 
 
