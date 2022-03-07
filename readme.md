@@ -50,8 +50,8 @@
 
 <h2>🌐 &nbsp;Social Media</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-daphneruth304@gmail.com-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedIn.com/in/daphineruth/)](https://www.linkedin.com/in/daphineruth/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphineruth)](https://twitter.com/DaphneRuth7)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedIn.com/in/daphineruth/)](https://www.linkedin.com/in/daphneruth304@gmail.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphineruth)](https://twitter.com/@DaphneRuth7)
 
 
 </p>
