@@ -4,7 +4,9 @@
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/daphineruth">
 <p aligh="left">
 
-  <p>Hi 👋, I'm a software developer and a big fan of Women In Tech Empowerment .</br>
+  <p>Hiello 
+   👋</br>
+  I'm a software developer and a big fan of Women In Tech Empowerment .</br>
    I develop websites and mobile applications for personal or enterprise use. Currently, I work for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software.
     
   📱  &nbsp; contact me via ***Email*** <daphineruth304@gmail.com> \
