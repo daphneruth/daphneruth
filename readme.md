@@ -6,7 +6,7 @@
 
   <p>Hello 
    👋</br>
-  I'm a software developer and a big fan of Women In Tech Empowerment .</br>
+  I'm a software developer. I develop mobile and web applications</br>
    I develop websites and mobile applications for personal or enterprise use. Currently, I work for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software.
     
   📱  &nbsp; contact me via ***Email*** <daphineruth304@gmail.com> \
