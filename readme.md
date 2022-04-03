@@ -53,7 +53,8 @@
 <h2>🌐 &nbsp;Social Media</h2>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphineruth)](https://twitter.com/@DaphneRuth7)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_
+ruth)](https://twitter.com/DaphneRuth7)
 
 
 </p>
