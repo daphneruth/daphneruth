@@ -69,7 +69,7 @@
 <h2>📈 &nbsp;Github Statistics</h2>
 <span align="center">
 
-![BDaphine Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphneruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![BDaphne Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphneruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
  
 <hr>
 <span align="center">
