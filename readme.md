@@ -1,7 +1,7 @@
  
 #  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  />&nbsp;<b>Hey there, I'm Daphine Ruth </b>
 
-<img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/daphineruth">
+<img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/daphneruth">
 <p aligh="left">
 
   <p>Hello 
@@ -62,18 +62,22 @@
 <h2>💹 &nbsp;Languages Usage Statistics</h2>
 <!-- most used languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphineruth&layout=compact)](https://github.com/daphineruth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphneruth&layout=compact)](https://github.com/daphneruth)
 </p>
 
 <br />
 <h2>📈 &nbsp;Github Statistics</h2>
-<span align="left">
+<span align="center">
 
-![BDaphine Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphineruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
- ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daphineruth&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![BDaphine Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daphneruth&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+ 
+<hr>
+<span align="center">
+
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daphneruth&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
 </span>
-
-
 <br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daphneruth&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
