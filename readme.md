@@ -1,5 +1,5 @@
  
-#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  />&nbsp;<b>Hey there, I'm Daphine Ruth </b>
+#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="30px"  />&nbsp;<b>I'm Daphine Ruth </b>
 
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/daphneruth">
 <p aligh="left">
