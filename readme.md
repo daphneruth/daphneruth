@@ -6,7 +6,7 @@
 
   <p>Hello there
    👋 </br>
-  I'm a software developer.</br>
+  I am a software developer.</br>
    I develop websites and mobile applications for personal or enterprise use. Currently working  at <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software.
     
   📱  &nbsp; contact me via ***Email*** <daphneruth304@gmail.com> \
