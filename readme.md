@@ -59,7 +59,7 @@
 <!-- 	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a> -->
 <!-- 	<a href="https://www.instagram.com/makau_bn/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a> -->
 	<!--<a href="https://twitter.com/daphneruth7" target='_blank'><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>-->
-	[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_daphneruth)](https://twitter.com/_daphneruth)
+	
 </p>
 <hr/>
 <br/>
