@@ -10,7 +10,7 @@
    I develop websites for personal or enterprise use. 
     
   📱  &nbsp; contact me via ***Email*** <daphneruth304@gmail.com> \
-  💡 &nbsp;If its possible,then I can 
+  💡 &nbsp;
 </p>
 <br>
 
