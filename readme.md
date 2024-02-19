@@ -6,7 +6,7 @@
 
   <p>Hello
    👋 </br>
-  I'm a software developer.</br>
+  I'm a software engineer.</br>
    I develop websites for personal or enterprise use. 
     
   📱  &nbsp; contact me via ***Email*** <daphneruth304@gmail.com> \
